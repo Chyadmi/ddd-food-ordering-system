@@ -1,0 +1,10 @@
+com/food/ordering/system/valueObject/CustomerId.class
+com/food/ordering/system/valueObject/ProductId.class
+com/food/ordering/system/valueObject/RestaurantId.class
+com/food/ordering/system/valueObject/OrderId.class
+com/food/ordering/system/entity/AgregateRoot.class
+com/food/ordering/system/valueObject/Money.class
+com/food/ordering/system/valueObject/BaseId.class
+com/food/ordering/system/entity/BaseEntity.class
+com/food/ordering/system/valueObject/OrderStatus.class
+com/food/ordering/system/event/DomainEvent.class

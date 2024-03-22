@@ -1,0 +1,10 @@
+/Users/mac/Desktop/LEARNING/MS,SAGA,OUTBOX.... COURSE/food-ordering-system/common/common-domain/src/main/java/com/food/ordering/system/valueObject/ProductId.java
+/Users/mac/Desktop/LEARNING/MS,SAGA,OUTBOX.... COURSE/food-ordering-system/common/common-domain/src/main/java/com/food/ordering/system/valueObject/CustomerId.java
+/Users/mac/Desktop/LEARNING/MS,SAGA,OUTBOX.... COURSE/food-ordering-system/common/common-domain/src/main/java/com/food/ordering/system/valueObject/BaseId.java
+/Users/mac/Desktop/LEARNING/MS,SAGA,OUTBOX.... COURSE/food-ordering-system/common/common-domain/src/main/java/com/food/ordering/system/valueObject/RestaurantId.java
+/Users/mac/Desktop/LEARNING/MS,SAGA,OUTBOX.... COURSE/food-ordering-system/common/common-domain/src/main/java/com/food/ordering/system/valueObject/OrderId.java
+/Users/mac/Desktop/LEARNING/MS,SAGA,OUTBOX.... COURSE/food-ordering-system/common/common-domain/src/main/java/com/food/ordering/system/event/DomainEvent.java
+/Users/mac/Desktop/LEARNING/MS,SAGA,OUTBOX.... COURSE/food-ordering-system/common/common-domain/src/main/java/com/food/ordering/system/valueObject/OrderStatus.java
+/Users/mac/Desktop/LEARNING/MS,SAGA,OUTBOX.... COURSE/food-ordering-system/common/common-domain/src/main/java/com/food/ordering/system/valueObject/Money.java
+/Users/mac/Desktop/LEARNING/MS,SAGA,OUTBOX.... COURSE/food-ordering-system/common/common-domain/src/main/java/com/food/ordering/system/entity/AgregateRoot.java
+/Users/mac/Desktop/LEARNING/MS,SAGA,OUTBOX.... COURSE/food-ordering-system/common/common-domain/src/main/java/com/food/ordering/system/entity/BaseEntity.java
